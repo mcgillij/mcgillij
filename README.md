@@ -6,6 +6,5 @@ I'm a Dev/Sys Admin/Devops person living and working in Halifax/NS.
 After 20 years of Debian it's time to try some of the new things around I guess.
 - 👯 I’m looking to collaborate on most things open source
 - 💬 Ask me about anything
-- 📫 How to reach me: here on github
+- 📫 How to reach me: here on github or <a rel="me" href="https://fosstodon.org/@mcgillij">Mastodon</a>
 - ⚡ Fun fact: Debian is still my favorite distro.
-
