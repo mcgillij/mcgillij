@@ -10,3 +10,4 @@ After 20 years of Debian it's time to try some of the new things around I guess.
 - ⚡ Fun fact: Debian is still my favorite distro.
 
 ![mcgillij's github stats](https://github-readme-stats.vercel.app/api?username=mcgillij&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcgillij)](https://github.com/mcgillij)
