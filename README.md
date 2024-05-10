@@ -11,3 +11,4 @@ After 20 years of Debian it's time to try some of the new things around I guess.
 
 ![mcgillij's github stats](https://github-readme-stats.vercel.app/api?username=mcgillij&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_title=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcgillij&theme=radical&hide_title=true&hide_border=true)](https://github.com/mcgillij)
+![Metrics](/github-metrics.svg)
