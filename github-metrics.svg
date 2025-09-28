@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1268" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1385" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2825 Commits
+                            2930 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.90494529459258" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="208.90494529459258" y="0" width="107.60791106904193" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="316.5128563636345" y="0" width="61.120605548801805" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="377.6334619124363" y="0" width="58.83671072588936" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="436.4701726383257" y="0" width="13.704080401636986" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="450.1742530399627" y="0" width="9.825746960037366" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.47472037881525" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="205.47472037881525" y="0" width="105.84098622595958" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="311.31570660477485" y="0" width="62.21658249845465" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="373.5322891032295" y="0" width="60.1170035338986" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="433.6492926371281" y="0" width="13.479059026603375" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="447.12835166373145" y="0" width="12.87164833626853" height="8" fill="#478CBF"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -241,15 +241,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#355570" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         GDScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -259,9 +259,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#478CBF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        GDShader
                     </div>
                 </div>
             </section>
@@ -288,12 +288,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bcf83b0</div>
-                                        <div class="message">add rotate button</div>
+                                        <div class="sha">#b5d7966</div>
+                                        <div class="message">broke out events to LevelEvent
+
+made treasure event that uses luck skill
+added colors to the foraging event skill checks</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4b6936e</div>
-                                        <div class="message">update stats descriptions</div>
+                                        <div class="sha">#08b94cf</div>
+                                        <div class="message">only generate unique environmental effects</div>
                                     </div>
                                 </div>
                             </section>
@@ -305,23 +308,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">mcgillij/ymbag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#90bc412</div>
-                                        <div class="message">setup paws properly again</div>
+                                        <div class="sha">#d0db43e</div>
+                                        <div class="message">spamming protection on worldmap</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#887be9d</div>
-                                        <div class="message">cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a744d58</div>
-                                        <div class="message">starting block undim</div>
+                                        <div class="sha">#a867028</div>
+                                        <div class="message">spam clicking protection</div>
                                     </div>
                                 </div>
                             </section>
@@ -333,59 +332,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 12 commits in
+                                        Pushed 9 commits in
                                         <span class="repo">mcgillij/ymbag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19ae4a6</div>
-                                        <div class="message">cleanup</div>
+                                        <div class="sha">#f0cffa5</div>
+                                        <div class="message">re-fix mana-bar, can't really put shader on there</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1537d54</div>
-                                        <div class="message">colors on dice rolls</div>
+                                        <div class="sha">#d4772c1</div>
+                                        <div class="message">kinda working mana bars</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e858778</div>
-                                        <div class="message">back to old fog shader</div>
+                                        <div class="sha">#c73373d</div>
+                                        <div class="message">first edition mana bar shader</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#171d756</div>
-                                        <div class="message">shader shenans</div>
+                                        <div class="sha">#0540863</div>
+                                        <div class="message">reworked manabars, moved from textures to godot panels themes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#920d43a</div>
-                                        <div class="message">disable more effects</div>
+                                        <div class="sha">#c9b1212</div>
+                                        <div class="message">use new shader for char portraits</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f57b266</div>
-                                        <div class="message">no fog on not selectable tiles</div>
+                                        <div class="sha">#8082b1c</div>
+                                        <div class="message">make the healthbar bigger</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#45495c1</div>
-                                        <div class="message">no shaders on regular lines</div>
+                                        <div class="sha">#9f33f31</div>
+                                        <div class="message">shader cleanup</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4e30cb5</div>
-                                        <div class="message">fix path</div>
+                                        <div class="sha">#a71f862</div>
+                                        <div class="message">tweak mandelbulb</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3e08092</div>
-                                        <div class="message">more optimizations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47c4c94</div>
-                                        <div class="message">fix up some performance issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9826c67</div>
-                                        <div class="message">config updates for line widths</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52d23da</div>
-                                        <div class="message">reset booster information on going back to main menu</div>
+                                        <div class="sha">#c65c1f5</div>
+                                        <div class="message">fix resource links</div>
                                     </div>
                                 </div>
                             </section>
@@ -397,63 +384,87 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
+                                        Pushed 19 commits in
                                         <span class="repo">mcgillij/ymbag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed1e7b2</div>
-                                        <div class="message">line drawing simplifications</div>
+                                        <div class="sha">#ca4c18d</div>
+                                        <div class="message">regenerate now has vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#68d5524</div>
-                                        <div class="message">simplified line drawing</div>
+                                        <div class="sha">#c36037d</div>
+                                        <div class="message">evasive recovery vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1e29fc3</div>
-                                        <div class="message">some steamworks, work</div>
+                                        <div class="sha">#696d688</div>
+                                        <div class="message">thrash has a vfx now</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f3718d8</div>
-                                        <div class="message">fix up the level generation to make dungeons less brutal</div>
+                                        <div class="sha">#0e6947a</div>
+                                        <div class="message">adds displacement vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1a705ec</div>
-                                        <div class="message">fix templated caster values</div>
+                                        <div class="sha">#3712367</div>
+                                        <div class="message">adds blur vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#719fcb8</div>
-                                        <div class="message">fix turn order message</div>
+                                        <div class="sha">#29c0ebb</div>
+                                        <div class="message">brace vfx added</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e1f5fa1</div>
-                                        <div class="message">remove old turn system swap to turn manager for both modes</div>
+                                        <div class="sha">#22f998a</div>
+                                        <div class="message">dash has vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#532923b</div>
-                                        <div class="message">buff update for new turn management</div>
+                                        <div class="sha">#a471ca9</div>
+                                        <div class="message">rage</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#83aba4a</div>
-                                        <div class="message">fix combat log message for shout</div>
+                                        <div class="sha">#ac58689</div>
+                                        <div class="message">brutalstrike vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0bd2e59</div>
-                                        <div class="message">scrolling fix trying to eliminate dsync</div>
+                                        <div class="sha">#5c32d6f</div>
+                                        <div class="message">bleed has vfx now</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e0a940a</div>
-                                        <div class="message">see about some edge cases</div>
+                                        <div class="sha">#b8ac718</div>
+                                        <div class="message">rend now has vfx</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#89c6300</div>
-                                        <div class="message">turn's extracted to turnmanager</div>
+                                        <div class="sha">#165d0a6</div>
+                                        <div class="message">turtleup has an effect</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0c4a506</div>
-                                        <div class="message">coralstrike fix</div>
+                                        <div class="sha">#cf51f3f</div>
+                                        <div class="message">turtleup now has a shader effect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#124f48f</div>
+                                        <div class="message">shieldbash</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db672fb</div>
+                                        <div class="message">draining strike has effect now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5f2fdf</div>
+                                        <div class="message">pierce has effect now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0641a05</div>
+                                        <div class="message">shout and craze effects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#813d310</div>
+                                        <div class="message">omniscience has visual</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fc623c</div>
+                                        <div class="message">mountain defense now has an vfx</div>
                                     </div>
                                 </div>
                             </section>
@@ -465,15 +476,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 6 commits in
                                         <span class="repo">mcgillij/ymbag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#62e5fc4</div>
-                                        <div class="message">remove scrollbars on health labels</div>
+                                        <div class="sha">#69cf8fa</div>
+                                        <div class="message">shatter has an effect (need to fix it though)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27591d6</div>
+                                        <div class="message">slam</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80318d9</div>
+                                        <div class="message">bork has vfx now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec97ba3</div>
+                                        <div class="message">deflect has an effect now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#654f6e8</div>
+                                        <div class="message">shield_to_health effect</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26549b4</div>
+                                        <div class="message">adds scatterstrike</div>
                                     </div>
                                 </div>
                             </section>
@@ -483,7 +514,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2025, 21:03:24 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2025, 21:03:26 (timezone America/Halifax) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
